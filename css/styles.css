@@ -2,3 +2,28 @@
   -webkit-filter: grayscale(0) !important;
   filter: grayscale(0) !important;
 }
+
+/***
+* Nationmultimidea
+***/
+.pushy,#wrapper,.header-menu img,#page-header #header .header-menu #menu > li > a{
+     /*-moz-filter: grayscale(0);*/
+     -webkit-filter: grayscale(0) !important;
+     /*filter: gray;*/
+     filter: grayscale(0) !important;
+}
+#page-header #header .header-menu #menu > li ul ,#menu1 *,#popup1,.NewsDetail,#footer{
+     /*-moz-filter: grayscale(0);*/
+     -webkit-filter: grayscale(0) !important;
+     /*filter: gray;*/
+     filter: grayscale(0) !important;
+}
+#imagemodal img{
+     /*-moz-filter: grayscale(0);*/
+     -webkit-filter: grayscale(0) !important;
+     /*filter: gray;*/
+     filter: grayscale(0) !important;
+}
+/***
+* End of Nationmultimidea
+***/

@@ -1,8 +1,7 @@
- body {
+html, body, img {
   -webkit-filter: grayscale(0) !important;
   filter: grayscale(0) !important;
 }
-
 /***
 * Nationmultimidea
 ***/

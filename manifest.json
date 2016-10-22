@@ -21,7 +21,10 @@
      {
        "matches": ["*://*/*"],
        "css": ["css/styles.css"],
-       "js": ["js/app.js"]
+       "js": [
+           "js/jquery.min.js",
+         "js/app.js"
+       ]
      }
    ]
 }

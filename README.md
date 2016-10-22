@@ -1,5 +1,5 @@
 # black-to-Color
-### Google Chrome Extension - Grayscale websites conver into color mode
+### Google Chrome Extension - Grayscale websites convert into color mode
 
 The story behind that:
 Because of Thai people so loved their King, so after His death many thai

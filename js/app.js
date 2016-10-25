@@ -11,5 +11,5 @@ $('frame').load( function() {
 /* Especially if they add !important */
 var str = Host.indexOf("google");
 if( str < 1 ) {
-  $("body, img").attr("style","filter: grayscale(0) !important ; -webkit-filter:grayscale(0) !important");
+  $("body").attr("style","filter: grayscale(0) !important ; -webkit-filter:grayscale(0) !important");
 }

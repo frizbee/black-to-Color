@@ -6,4 +6,5 @@ $('frame').load( function() {
 });
 
 /* Just incase if css injection doesn't work */
+/* Especially if they add !important */
 $("body, img").attr("style","filter: grayscale(0) !important ; -webkit-filter:grayscale(0) !important");

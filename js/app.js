@@ -13,3 +13,7 @@ var str = Host.indexOf("google");
 if( str < 1 ) {
   $("body").attr("style","filter: grayscale(0) !important ; -webkit-filter:grayscale(0) !important");
 }
+var facebook_hook = Host.indexOf("facebook");
+if( facebook_hook < 1 ) {
+  $("html").attr("style","filter: grayscale(0) !important ; -webkit-filter:grayscale(0) !important");
+}

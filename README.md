@@ -2,7 +2,7 @@
 
 ### Google Chrome Extension - Grayscale websites convert into color mode
 
-The story behind that:
+**The story behind that:**
 Because of Thai people so loved their King, so after His death many thai
 services/websites are converted into grayscale mode. It is very annoying,
 especially when you try to work with this sevices.
